@@ -1,0 +1,62 @@
+
+
+/*BODY WRAPPER*/
+
+.body-wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: top;
+    padding: 10px 0px;
+}
+
+.body-wrapper > .left-heather-body-wrap {
+    padding: 40px;
+}
+
+.body-wrapper > .left-heather-body-wrap > .text-wrap h1 {
+    font-weight: 300;
+    font-style: normal;
+    font-size: 2.5em;
+}
+
+.body-wrapper > .left-heather-body-wrap > .text-wrap i{
+    color: #e1ca72;
+}
+
+.body-wrapper > .left-heather-body-wrap > .text-wrap h2 {
+    font-weight: 300;
+    font-style: normal;
+    color: hsl(230deg 12% 80.39%);
+    font-size: 2em;
+}
+
+.body-wrapper > .left-heather-body-wrap > .body-btn-wrap {
+    padding-top: 20px;
+}
+
+.body-wrapper > .left-heather-body-wrap > .body-btn-wrap > .dark-gray-btn {
+    margin-left: 10px;
+}
+
+.body-wrapper > .right-heather-body-wrap {
+    padding: 30px 0px 0px 40px;
+}
+
+.body-wrapper > .right-heather-body-wrap > .text-wrap a {
+    text-decoration: none;
+    color: hsl(196.2deg 100% 73.14%);
+    transition: 0.5s;
+}
+
+.body-wrapper > .right-heather-body-wrap > .text-wrap a:hover {
+    color: hsl(195, 94%, 88%);
+}
+
+.body-wrapper > .right-heather-body-wrap > .image-wrap img {
+    width: 600px;
+    height: 100%;
+    border-top-left-radius: 3px;
+}
+
+
+

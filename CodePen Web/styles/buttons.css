@@ -1,0 +1,88 @@
+/*BUTTONS*/
+
+.heather-btn{
+    font-size: 1em;
+    padding: 20px 15px;
+    color: hsl(0deg 0% 100%);
+    background-color: rgb(52, 59, 66);
+    border: 1px solid rgb(52, 59, 66);
+    border-radius: 3px;
+    outline: none;
+    transition: 0.3s;
+    margin: 5px;
+}
+
+.heather-btn:hover{
+    background-color: hsl(226.15deg 12.04% 57.65%);
+    border: 1px solid hsl(226.15deg 12.04% 57.65%);
+}
+
+.grey-btn i{
+    color:hsl(139.41deg 58.62% 54.51%);
+}
+
+.grey-magnifying-btn{
+    color: hsl(226.15deg 12.04% 57.65%);
+    background-color: black;
+    border: 1px solid black;
+    font-size: 2em;
+}
+
+.grey-magnifying-btn:hover{
+    color: hsl(139.41deg 58.62% 54.51%);
+    background-color: black;
+    border: 1px solid black;
+}
+
+.body-btn {
+    font-size: 1.25em;
+    padding: 10px 20px;
+    color: hsl(0deg 0% 100%);
+    background-color: hsl(226.15deg 12.04% 57.65%);
+    border: 1px solid hsl(226.15deg 12.04% 57.65%);
+    border-radius: 3px;
+    outline: none;
+    transition: 0.3s;
+}
+
+.green-btn{
+    background-color: hsl(139.41deg 58.62% 54.51%);
+    border: 1px solid hsl(139.41deg 58.62% 54.51%);
+    color: black;
+    font-size: 2em;
+}
+
+.green-btn:hover{
+    background-color: hsl(139.62deg 59.09% 34.51%);
+    border: 1px solid hsl(139.62deg 59.09% 34.51%);
+    color: hsl(0deg 0% 100%);
+}
+
+.dark-gray-btn{
+    background-color: hsl(240deg 9.09% 4.31%);
+    border: 1px solid hsl(240deg 9.09% 4.31%);
+    color: hsl(0deg 0% 100%);
+    font-size: 2em;
+}
+
+.dark-gray-btn:hover{
+    background-color: hsl(226.15deg 12.04% 57.65%);
+    border: 1px solid hsl(226.15deg 12.04% 57.65%);
+}
+
+.header-navigation-wrapper > .header-navigation-wrap > .links-wrap > .spark-link {
+    text-decoration: none;
+    color:hsl(226.15deg 12.04% 57.65%);
+    padding: 0px 15px;
+}
+
+.spark-btn {
+    text-decoration: none;
+    color:hsl(226.15deg 12.04% 57.65%);
+    background-color: black;
+    border: 1px solid black;
+    padding: 0px 15px;
+}
+
+
+
